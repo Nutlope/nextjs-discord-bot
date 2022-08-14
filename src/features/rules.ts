@@ -41,7 +41,7 @@ const RULES_MESSAGES = [
 💻 I work with this tech: Next.js, Typescript, Tailwind, and Prisma
 🍎 I snack on: ☕
 
-Also, tell us what tools you use so we can automatically add you to the relevant channels!
+Also, react with the tools below so we can automatically add you to the relevant channels!
 
 <:javascript:770004227366846494> : JavaScript
 
