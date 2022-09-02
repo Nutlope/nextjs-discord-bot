@@ -34,12 +34,9 @@ const INTRO_CHANNEL_ID = '766393115044216854';
 // `,
 
 const RULES_MESSAGES = [
-  `**To unlock the rest of the server, make sure to introduce yourself in the <#${INTRO_CHANNEL_ID}> channel!** Use this template:
+  `**To unlock the rest of the server, make sure to introduce yourself in the <#${INTRO_CHANNEL_ID}> channel!** Use a message like this:
 
-🌎 I'm from: Italy
-🏢 I work at: Amazon
-💻 I work with this tech: Next.js, Typescript, Tailwind, and Prisma
-🍎 I snack on: ☕
+"Hi! I'm John, a frontend engineer from San Francisco. I joined this group to get help doing auth with Next.js. Nice to meet you all!"
 
 Also, react with the tools below so we can automatically add you to the relevant channels!
 
